@@ -59,8 +59,6 @@ developer = {
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
@@ -79,8 +77,8 @@ developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:SEU@EMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/jo%C3%A3o-pedro-466a04412/)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:joaopedrosbgonc@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00d9ff)](https://SEU-PORTFOLIO.com)
 
 <br/>
