@@ -59,7 +59,7 @@ developer = {
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joaopedrosbgonc-del&theme=darkhub&margin-w=10&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
