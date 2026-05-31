@@ -51,6 +51,7 @@ developer = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrosbgonc-del&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrosbgonc-del&layout=compact&theme=github_dark&border_color=00d9ff&title_color=00d9ff"/>
 
 <br/>
@@ -79,7 +80,6 @@ developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/jo%C3%A3o-pedro-466a04412/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:joaopedrosbgonc@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00d9ff)](https://SEU-PORTFOLIO.com)
 
 <br/>
 
